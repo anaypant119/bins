@@ -1,5 +1,6 @@
 {
   // you can also use comments
   // "app.theme": "dark"
-  "app.theme": "light"
+  // "app.theme": "dark"
+ 
 }
